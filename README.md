@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alice0000FF
-- 👀 I’m interested in UX/UI
+- 👀 I’m interested in UI/UX
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on me
 
